@@ -16,6 +16,7 @@
 		0313C86328E73BE800E61205 /* video_playerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0313C86228E73BE800E61205 /* video_playerTests.swift */; };
 		0313C86D28E73BE800E61205 /* video_playerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0313C86C28E73BE800E61205 /* video_playerUITests.swift */; };
 		0313C86F28E73BE800E61205 /* video_playerUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0313C86E28E73BE800E61205 /* video_playerUITestsLaunchTests.swift */; };
+		0313C87E28E7400A00E61205 /* test.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 0313C87D28E7400A00E61205 /* test.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		0313C86828E73BE800E61205 /* video_playerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = video_playerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0313C86C28E73BE800E61205 /* video_playerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = video_playerUITests.swift; sourceTree = "<group>"; };
 		0313C86E28E73BE800E61205 /* video_playerUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = video_playerUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		0313C87D28E7400A00E61205 /* test.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; name = test.mp4; path = ../../FEND_Coursera/Advc_HTML/test.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				0313C85128E73BE400E61205 /* Main.storyboard */,
 				0313C85428E73BE700E61205 /* Assets.xcassets */,
 				0313C85628E73BE700E61205 /* LaunchScreen.storyboard */,
+				0313C87D28E7400A00E61205 /* test.mp4 */,
 				0313C85928E73BE700E61205 /* Info.plist */,
 			);
 			path = video_player;
@@ -232,6 +235,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0313C85828E73BE700E61205 /* LaunchScreen.storyboard in Resources */,
+				0313C87E28E7400A00E61205 /* test.mp4 in Resources */,
 				0313C85528E73BE700E61205 /* Assets.xcassets in Resources */,
 				0313C85328E73BE400E61205 /* Main.storyboard in Resources */,
 			);
